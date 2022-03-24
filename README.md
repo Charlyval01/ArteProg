@@ -8,28 +8,42 @@
 
 Monterrey,mx 🇲🇽
 
-#nlist 🗂️
+# Nlist 🗂️
 1. This
 2. Is
 3. Charlie 
 
 ![Hi](https://images.unsplash.com/photo-1515248137880-45e105b710e0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1794&q=80)
 
-#ulist 🗂️
+# Ulist 🗂️
 - I am
 - an ITC 💻
 - student
 
-#tasks ✔️
+# Tasks ✔️
 - [x] ⚽
 - [x] 💻
 - [x] 🔥
 
-#link 🔗
+# Link 🔗
 
 [Mac images](https://unsplash.com/s/photos/mac)
 
-#map 🗺️
+
+# Cita de texto ✏️
+  ITESM-Ingeniería en Tecnologías Computacionales
+  
+# Emojis
+- ⚽
+- 💻
+- 🏈
+
+# Alist
+- Hi
+  - Im
+  - Charlie
+
+# Map 🗺️
 
 ```geojson
 {  
@@ -46,14 +60,15 @@ Monterrey,mx 🇲🇽
   
 }
 ```
-#table 📶
+# Table 📶
 
 | Charlie´s | Table |
 | ----------- | ----------- |
 | This | Is |
 | My | Table |
   
-  
+# Ocultar Contenido 🔲
+<!-- Hi -->
 
   
 
