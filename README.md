@@ -31,7 +31,7 @@ Monterrey,mx 🇲🇽
 
 
 # Cita de texto ✏️
-  ITESM-Ingeniería en Tecnologías Computacionales
+  > ITESM-Ingeniería en Tecnologías Computacionales
   
 # Emojis
 - ⚽
